@@ -2,7 +2,7 @@ const fs = require('fs');
 const Combinatorics = require('js-combinatorics');
 const async = require('async');
 
-const fileTestCase = fs.readFileSync('./testcase_data_small.txt', { encoding: 'utf8' }).toString().split('\r\n');
+const fileTestCase = fs.readFileSync('./testcase_data_large.txt', { encoding: 'utf8' }).toString().split('\r\n');
 
 const cmb = Combinatorics.bigCombination(fileTestCase, 3);
 
