@@ -42,6 +42,8 @@ size 5
 
 ## Small Data ##
 ` Target = 37375606804152 `
+` Ans = `
 
 ## Large Data ##
 ` Target = 45431751451366 `
+` Ans = 45431751450537 `

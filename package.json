@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "async": "^2.4.1",
-    "js-combinatorics": "^0.5.2",
+    "js-combinatorics": "^0.5.2"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
